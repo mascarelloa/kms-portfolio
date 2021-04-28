@@ -74,13 +74,13 @@ nav {
 nav a {
     width:7%;
     font-family: raleway;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 600;
     color: var(--darkgray);
     text-transform: uppercase;
     text-decoration:none;
     letter-spacing:2px;
-    padding-left:3%;
+    padding-left:4%;
 
 
 }
